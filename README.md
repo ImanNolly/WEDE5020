@@ -6,7 +6,7 @@ Paws Haven Animal Rescue
 
 #### References
 
-Animal Welfare Society of South Africa (n.d.) *Animal Welfare Society of South Africa*. Available at: https://animalwelfaresociety.org.za/ (Accessed: 14 August 2026).
+Animal Welfare Society of South Africa (n.d.) *Animal Welfare Society of South Africa*. Available at: https://animalwelfaresociety.org.za/ (Accessed: 12 August 2026).
 
 ASPCA (n.d.) *Adopting from an animal shelter*. Available at: https://www.aspca.org/adopt-pet (Accessed: 12 August 2026).
 
