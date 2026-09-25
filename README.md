@@ -20,5 +20,7 @@ World Wide Web Consortium (W3C) (2023) *Web Content Accessibility Guidelines (WC
 
 South African Veterinary Association (n.d.) *South African Veterinary Association*. Available at: https://sava.co.za/ (Accessed: 12 August 2026).
 
+Lopes, H. (n.d.) Young woman petting Golden Retriever [Photograph]. Pexels. Available at: Pexels (Accessed: 25 September 2026).
+
 WEDE5020 PART 2:
 [View WEDE5020-Part 2 (PDF)](WEDE5020-Part-2.pdf)
