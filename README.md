@@ -27,7 +27,7 @@ WEDE5020 PART 2:
 
 Part 3- Website Enhancement and Functionality
 
-[View WEDE5020-Part 3 (PDF)](documents/WEDE5020-Part-3.pdf) 
+[View WEDE5020-Part 3 (PDF)](WEDE5020-Part-3.pdf)
 
 Platform used to deploy website: Netlify
 Link: https://velvety-frangipane-734760.netlify.app  
