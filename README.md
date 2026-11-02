@@ -24,3 +24,60 @@ Lopes, H. (n.d.) Young woman petting Golden Retriever [Photograph]. Pexels. Avai
 
 WEDE5020 PART 2:
 [View WEDE5020-Part 2 (PDF)](WEDE5020-Part-2.pdf)
+
+Part 3- Website Enhancement and Functionality
+
+Platform used to deploy website: Netlify
+Link: https://velvety-frangipane-734760.netlify.app  
+The changes made to the Paws Haven Animal Rescue website include:
+
+1. Website Pages Added
+Created an About page (about.html) containing information about the animal shelter.
+Created a Services page (services.html) outlining the services provided by the shelter.
+Created a Stories page (stories.html) featuring animal rescue and adoption stories.
+Created a Contact page (contact.html) providing contact information and an enquiry form.
+
+2. Homepage Improvements
+Preserved the original homepage structure and visual appearance.
+Retained the original PHAR branding, logo and background image.
+Maintained the original navigation bar, headings, colours and buttons.
+Improved the organisation and structure of the homepage content.
+
+3. CSS and Design Improvements
+Extended the original stylesheet (style.css) to accommodate the additional pages.
+Maintained consistent styling across all website pages.
+Added responsive styling to improve the website's appearance on different screen sizes and devices.
+Improved page layouts and content organisation.
+
+4. JavaScript Functionality
+Added a JavaScript file (script.js) to introduce interactive website features.
+Implemented navigation functionality.
+Added search functionality.
+Added form validation to improve the handling of user input.
+Introduced additional interactive elements throughout the website.
+
+5. SEO and Website Improvements
+Added basic SEO improvements, including page titles and meta descriptions.
+Improved HTML content structure and organisation.
+Improved the overall usability and navigation of the website.
+
+6. GitHub and Deployment
+Created a separate updated project folder named PHAR-original-extended.
+Connected the updated project to the existing GitHub repository (WEDE5020).
+Committed and pushed the updated website files to the master branch.
+Successfully deployed the website using Netlify.
+Made the website publicly accessible through a Netlify-hosted URL.
+
+Files Added/Updated:
+index.html
+about.html
+services.html
+stories.html
+contact.html
+style.css
+script.js
+images/ (website images and assets)
+
+Overall:
+The website was expanded from a HTML and CSS project into a multi-page website with JavaScript functionality, improved responsiveness, basic SEO enhancements and successful online deployment.
+
